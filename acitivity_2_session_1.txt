@@ -1,0 +1,17 @@
+What does the model achieve?
+- estimates the relationship between one independent variable and one dependent variable using a straight line.
+
+How should metrics be interpreted?
+- Slope is the relationship between temperature and the expansion of mercury in a thermometer.
+
+What are appropriate use cases?
+- It means that we can use mercury thermometers to measure temperature.
+
+How is it implemented? 
+- It is assumed that the two variables are linearly related
+
+What are caveats/biases/concerns to its usage?
+- It is a fake data and chart, so it is better to apply in real situations
+
+How to interpret this specific result and advising action/next steps
+ - It is a certain linear relationship that we can tell that as temperature increases, the mercury expands.
